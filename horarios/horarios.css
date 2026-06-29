@@ -1,0 +1,50 @@
+.wrapper{
+    display: flex;
+    width: 1200px;
+    background-color: aquamarine
+}
+
+.menu {
+    width: 120px;
+    height: 500px;
+    display: flex;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+.menu li h2 {
+    text-align: center;
+    align-items: top;
+    font-size: 20px;
+    color: rgb(5, 108, 108);
+    padding: 0px 0px 0px 0px;
+    margin: 5px auto;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: rgb(5, 108, 108);
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    align-items: below;
+}
+
+.content h1{
+    text-align: center;
+}
+
+.content table{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 100px;
+    border-color: black;
+    border-radius: 0%;
+    border-spacing: 0px;
+}
